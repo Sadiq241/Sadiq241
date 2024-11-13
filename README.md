@@ -6,6 +6,13 @@
 - 📫 How to reach me: imamsadiq70@gmail.com
 - 😄 Pronouns: He/Him
 
+### 🔧 Skills and Tools:
+
+- Data Analysis: SQL, Python, Excel, Power BI, Tableau
+- Data Cleaning & Transformation: Pandas, Power Query
+- Data Visualization: Creating intuitive dashboards and visualizations that make data accessible
+- Statistical Analysis: SPSS, descriptive and inferential statistics
+
 
 <!---
 Sadiq241/Sadiq241 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
